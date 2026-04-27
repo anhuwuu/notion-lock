@@ -12,7 +12,7 @@ This allows for multiple passwords to be used for different text.
 
 ## Adding it to notion
 
-1. Add the URL https://anhuwuu.github.io/notion-locktest/en/ as an embedded view on any page of Notion.
+1. Add the URL https://anhuwuu.github.io/notion-lock/en/ as an embedded view on any page of Notion.
 3. Resize the frame to your liking.
 4. you are done! =D
 
@@ -32,6 +32,13 @@ This allows for multiple passwords to be used for different text.
 3. Choose the checkbox "Decrypt"
 4. Press the green button "Generate Text"
 5. Thats it! Your secret data is now available to you!
+
+
+------ 
+1. fork
+2. standalone fork >> private
+3. test link
+
 
 # Afraid of me deleting this repo?
 
