@@ -17,9 +17,9 @@ This allows for multiple passwords to be used for different text.
 
 ## Adding it to notion
 
-1. Add the URL https://marcello09.github.io/notion-lock/en as an embedded view on any page of Notion.
-2. Resize the frame to your liking.
-3. you are done! =D
+1. Add the URL https://anhuwuu.github.io/notion-locktest/en/ as an embedded view on any page of Notion.
+3. Resize the frame to your liking.
+4. you are done! =D
 
 ## Encrypt text
 
@@ -32,7 +32,7 @@ This allows for multiple passwords to be used for different text.
 
 ## Decrypt text
 
-1. Type the password or passfrase you used to encrypt your text
+1. Type the password or passphrase you used to encrypt your text
 2. Copy the encrypted text to the textarea field
 3. Choose the checkbox "Decrypt"
 4. Press the green button "Generate Text"
@@ -40,11 +40,11 @@ This allows for multiple passwords to be used for different text.
 
 # Afraid of me deleting this repo?
 
-Some users have reached me out asking how relaiable their sensitive data is store since this is a public project hosted on github pages. I can´t garantee that this repo will live forever nor github pages will always be working. 
+Some users have reached me out asking how relaiable their sensitive data is store since this is a public project hosted on github pages. I can´t guarantee that this repo will live forever nor github pages will always be working. 
 
 To solve the issue of me deleting this repo, although I have no intention in doing it, you can always fork this repo. You will have it on your github account, and then you can set up github pages on your forked project. This negates the possibility of me deleting the repo. 
 
-Here is a how to setup github pages on a projec in case you don´t know how: [Quickstart for Github Pages](https://docs.github.com/en/pages/quickstart)
+Here is a how to setup github pages on a project in case you don´t know how: [Quickstart for Github Pages](https://docs.github.com/en/pages/quickstart)
 
 The script is all in one single index.html file as well, so if you happen to have a hosting service, you can put it in there and avoid depending on github pages.
 
